@@ -1,4 +1,4 @@
-# Esercizio
+# Esercizio 1
 
 Create una repo su GitHub su cui mettere un file **README.md** ed il file **index.html**. Usate uno dei due metodi fatti vedere in aula:
 
