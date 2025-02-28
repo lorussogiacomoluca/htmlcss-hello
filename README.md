@@ -19,4 +19,4 @@ Create una repo su GitHub su cui mettere un file **README.md** ed il file **inde
 
 📌 **Mi raccomando, le repo devono essere pubbliche affinchè possiamo vedere i vostri esercizi.**
 
-🚀 Buon lavoro!
+🚀 Buon lavoro! 
